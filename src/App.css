@@ -1,38 +1,177 @@
-.App {
-  text-align: center;
+.app {
+    margin: 0 auto;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.header-wrapper {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+ }
+
+.logo-image {
+    max-width: 20vw;
+    margin: 0 auto;
+    align-items: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.navigation {
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.navigation-item {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 250px;
+    max-width: 40vw;
+    height: 35px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 2px solid rgb(100, 3, 3);
+    border-radius: 7px;
 }
 
-.App-link {
-  color: #61dafb;
+.navigation-item a {
+    color: rgb(100, 3, 3);
+    text-decoration: none;
+    display: block;
+    letter-spacing: 1.5px;
+    font-size: 1.4em;
+ }
+
+ .navigation-item:hover {
+    background-color: rgb(100, 3, 3);
+ }
+
+ .navigation-item a:hover {
+    color: white;
+ }
+
+.сatalog { 
+    max-width: 100vw;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;    
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.goods {
+    max-width: 20%;
+    margin: 10px;
+    padding: auto;
+    display: inline-block;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.product-name {
+    font-size: 1.5em;
+    font-weight: 400;
+    text-align: center;
+}
+
+.button-delete-all {
+    color: rgb(100, 3, 3);
+    letter-spacing: 1.5px;
+    font-size: 1.4em;
+    text-align: center;
+    margin: 10px auto;
+    padding: 5px;    
+    border: 2px solid rgb(100, 3, 3);
+    border-radius: 7px;
+    width: 250px;
+    max-width: 40vw;
+}
+
+.summary {
+    text-align: center;
+    margin: 10px auto;
+    padding: 5px;   
+}
+
+.summary p {
+    font-size: 1.4em;
+    font-weight: 400;
+    text-align: center;
+    margin: 0;
+    padding: 5px;   
+}
+
+img {
+    width: 100%;
+    height: 250px;
+    align-items: center;
+}
+
+.short-description {
+    font-size: 0.8em;
+    font-weight: 100;
+    text-align: initial;
+}
+
+.add-new-product-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+h2 {
+    color: rgb(100, 3, 3);
+    font-size: 1.5em;
+    font-weight: 800;
+    text-align: center;
+}
+
+.input_wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input_wrapper label {
+    color: rgb(100, 3, 3);
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.input_wrapper input {
+    border: 2px solid rgb(100, 3, 3);
+    border-radius: 7px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.submit_button {
+    color: rgb(100, 3, 3);
+    font-size: 1.5em;
+    font-weight: 400;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;    
+    border: 2px solid rgb(100, 3, 3);
+    border-radius: 7px;
+}
+    
+@media (max-width: 768px) {
+    .сatalog-wrapper {
+        max-width: 100vw;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+}
+
+@media only screen and (min-width: 769px) {
+    .сatalog-wrapper {
+        max-width: 100vw;
+        margin: 0 auto;
+        display: block;
+        
+    }
 }

@@ -1,0 +1,89 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "productName": "Avanti Bicycles",
+            "productImageLink": "https://cremecycles.com/images/glowne/12.jpg",
+            "shortDescription": "Bicycle, also called bike, two-wheeled steerable machine that is pedaled by the rider’s feet",
+            "price": "1234"
+        },
+        {
+            "id": "2",
+            "productName": "Bilenky",
+            "productImageLink": "https://cdn.shopify.com/s/files/1/0989/9278/products/JMO_0208.jpg?v=1571439616",
+            "shortDescription": "Bicycle, also called bike, two-wheeled steerable machine that is pedaled by the rider’s feet",
+            "price": "1245"
+        },
+        {
+            "id": "3",
+            "productName": "Civia",
+            "productImageLink": "https://m.media-amazon.com/images/I/51ZuGJWOo1L._SX425_.jpg",
+            "shortDescription": "Bicycle, also called bike, two-wheeled steerable machine that is pedaled by the rider’s feet",
+            "price": "1246"
+        },
+        {
+            "id": "4",
+            "productName": "Davidson",
+            "productImageLink": "https://images.giant-bicycles.com/b_white,c_pad,h_600,q_80,w_800/kucyfrb4kiufrooorx5t/MY21Talon292-GU_ColorAConcrete.jpg",
+            "shortDescription": "Bicycle, also called bike, two-wheeled steerable machine that is pedaled by the rider’s feet",
+            "price": "1247"
+        },
+        {
+            "id": "5",
+            "productName": "Easy Racers",
+            "productImageLink": "https://images.financialexpress.com/2021/06/world-bicycle-day-2021-hero-lectro-c5.jpg",
+            "shortDescription": "Bicycle, also called bike, two-wheeled steerable machine that is pedaled by the rider’s feet",
+            "price": "1248"
+        },
+        {
+            "id": "6",
+            "productName": "Fairdale",
+            "productImageLink": "https://images.giant-bicycles.com/b_white,c_pad,h_650,q_80/hnyo7qfmykrnvym0nuyb/MY21Escape3_ColorAMossGreen.jpg",
+            "shortDescription": "Bicycle, also called bike, two-wheeled steerable machine that is pedaled by the rider’s feet",
+            "price": "1249"
+        },
+        {
+            "id": "7",
+            "productName": "Gary Fisher",
+            "productImageLink": "https://www.game.co.za/medias/758483-EA-1200x1200.jpg?context=bWFzdGVyfGltYWdlc19vbmVjb218MjIwNDUzfGltYWdlL2pwZWd8aDc5L2hlZi84ODk0ODg5NDI2OTc0LmpwZ3xkM2VjMTg0YTI4MTU4NDM1MzAzMTU2MmQzNjFmMzY3YTMyNTBiNmQ0NjRiMzc2N2ZkNmE5Y2M1MjBiNWU2ZWMw",
+            "shortDescription": "Bicycle, also called bike, two-wheeled steerable machine that is pedaled by the rider’s feet",
+            "price": "1250"
+        },
+        {
+            "id": "8",
+            "productName": "Holland Cycles",
+            "productImageLink": "https://cdn4.explainthatstuff.com/og-large-bicycle.png",
+            "shortDescription": "Bicycle, also called bike, two-wheeled steerable machine that is pedaled by the rider’s feet",
+            "price": "1251"
+        },
+        {
+            "id": "9",
+            "productName": "Kemo",
+            "productImageLink": "https://www.collinsdictionary.com/images/full/bicycle_154285904.jpg",
+            "shortDescription": "Bicycle, also called bike, two-wheeled steerable machine that is pedaled by the rider’s feet",
+            "price": "1252"
+        },
+        {
+            "id": "10",
+            "productName": "Litespeed",
+            "productImageLink": "https://m.media-amazon.com/images/I/8195dKteEvL._SL1500_.jpg",
+            "shortDescription": "Bicycle, also called bike, two-wheeled steerable machine that is pedaled by the rider’s feet",
+            "price": "1253"
+        },
+        {
+            "id": "11",
+            "productName": "Mustang",
+            "productImageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6Al9JZaUs458WFG6sB4KyEbg56Qn0Mevzg&usqp=CAU",
+            "shortDescription": "Bicycle, also called bike, two-wheeled steerable machine that is pedaled by the rider’s feet",
+            "price": "1254"
+        },
+        {
+            "id": "12",
+            "productName": "Ocoee",
+            "productImageLink": "https://www.ligamascycle.com/wp-content/uploads/20-Oscar-Red.jpeg",
+            "shortDescription": "Bicycle, also called bike, two-wheeled steerable machine that is pedaled by the rider’s feet",
+            "price": "1255"
+        }
+        
+    ]
+}
